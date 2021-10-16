@@ -6,7 +6,7 @@
                 "${default}",
                 "${workspaceFolder}/include"
             ],
-            "compilerPath": "/usr/bin/clang",
+            
             "cStandard": "c17",
             "intelliSenseMode": "linux-clang-x64"
         }
