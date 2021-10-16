@@ -28,7 +28,7 @@ void operatorControl()
     {
       doDrivebase();
       doClaw();
-      doForklift();
+      doFourbar();
       doFence();
       doLightpole();
     }
