@@ -25,6 +25,13 @@
 // This prevents multiple inclusion, which isn't bad for this file but is good practice
 #define MAIN_H_
 
+// Defining motor ports
+#define LEFT_DRIVE_MOTOR 4
+#define RIGHT_DRIVE_MOTOR 6
+
+// Drive Deadband
+#define DEADBAND 30
+
 #include <API.h>
 
 // Allow usage of this file in C++ programs
