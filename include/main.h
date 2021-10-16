@@ -29,6 +29,7 @@
 #define LEFT_DRIVE_MOTOR 4
 #define RIGHT_DRIVE_MOTOR 6
 #define FOURBAR_MOTOR_PORT 7
+#define FENCE_SERVO_PORT 3
 
 // Drive Deadband
 #define DEADBAND 30
